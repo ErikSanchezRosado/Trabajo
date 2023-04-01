@@ -1,0 +1,79 @@
+body {
+    background-color: rgb(31, 29, 29);
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.navbar-nav {
+    background-color: brown;
+    padding: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: end;
+
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+
+}
+
+p {
+    text-align: center;
+    color: crimson;
+
+}
+
+.proyectos {
+    background-color: rgb(73, 92, 131);
+    padding: auto;
+
+}
+
+h2 {
+    font-family: "raleway", "Sans-serif";
+    font-weight: 700;
+    color: aliceblue;
+    text-align: center;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 1fr 1fr;
+    gap: 1rem;
+
+}
+
+h2 {
+    color: aliceblue;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: x-large;
+
+}
+
+.final {
+    color: aliceblue;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.ligas {
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+h5 {
+    color: aliceblue;
+    text-align: center;
+}
